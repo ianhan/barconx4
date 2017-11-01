@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# PlanAhead v14.7
+# Build 321239 by xbuild on Fri Sep 27 19:31:35 MDT 2013
+# Start of session at: Tue Oct 31 20:24:40 2017
+# Process ID: 84748
+# Log file: C:/projects/Barco_Top/planAhead_run_1/planAhead.log
+# Journal file: C:/projects/Barco_Top/planAhead_run_1/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source C:/projects/Barco_Top/pa.fromNetlist.tcl
